@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "544962029679",
+    "project_id": "teentalktalk-8e9d6",
+    "storage_bucket": "teentalktalk-8e9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544962029679:android:998a7b43298ae205a5859a",
+        "android_client_info": {
+          "package_name": "com.naru.teenTalkTalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544962029679-1tdcl6oaiq1trfatcgajl3kmue788m97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SWgREcTi045cVjocNdH5XCWYjSd0sec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544962029679-1tdcl6oaiq1trfatcgajl3kmue788m97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544962029679:android:8aec91bf5f5ee6f9a5859a",
+        "android_client_info": {
+          "package_name": "com.naru.teenTalkTalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544962029679-1tdcl6oaiq1trfatcgajl3kmue788m97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SWgREcTi045cVjocNdH5XCWYjSd0sec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544962029679-1tdcl6oaiq1trfatcgajl3kmue788m97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

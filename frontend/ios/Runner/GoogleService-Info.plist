@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544962029679-0ujfndnmfsuj9r8ks6ukaq1gecvvcrc6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544962029679-0ujfndnmfsuj9r8ks6ukaq1gecvvcrc6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCn7bftZkjpxv3AfQbguQ8Y2IzQM-GXZyY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544962029679</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.naru.teenTalkTalk</string>
+	<key>PROJECT_ID</key>
+	<string>teentalktalk-8e9d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teentalktalk-8e9d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544962029679:ios:812165e55678e4b5a5859a</string>
+</dict>
+</plist>

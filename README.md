@@ -1,5 +1,8 @@
 # Yeongam-project
 - 나루의 영암군 프로젝트
+- Lead : 나윤주 (nan3ana3)
+- front : 김태희 (teahee)
+- back : 박준우 (Joonw00)
 - 앱 클라이언트단 FE 레포지토리
 
 ## 모바일 화면

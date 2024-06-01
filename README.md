@@ -1,9 +1,11 @@
 # Yeongam-project
-- 나루의 영암군 프로젝트
-- Lead : 나윤주 (nan3ana3)
-- front : 김태희 (teahee)
-- back : 박준우 (Joonw00)
+- 나루의 영암군 프로젝트 (2022.09 ~ 2023.12)
 - 앱 클라이언트단 FE 레포지토리
+
+## Team
+|<img src="https://avatars.githubusercontent.com/u/170405292?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/92096892?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/97094633?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|
+|Team Leader<br/>윤주<br/>[@nan3ana3](https://github.com/nan3ana3)|Front-end<br/>KimTaering<br/>[@KimTaering](https://github.com/KimTaering)|Back-end<br/>박준우<br/>[@Joonw00](https://github.com/Joonw00)|
 
 ## 모바일 화면
 
